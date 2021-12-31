@@ -1,5 +1,5 @@
 ### Kyle Fring
-🌐 <a href="http://kfring.io">kfring.io</a>\
+🌐 <a href="http://fring.io">fring.io</a>\
 📍 Chattanooga, TN\
 💻 **Senior Data Engineer**
 
