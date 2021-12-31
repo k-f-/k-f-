@@ -6,8 +6,10 @@
 
 #### ———
 ![GitHub stars](https://img.shields.io/github/stars/k-f-?style=social)
-![GitHub followers](https://img.shields.io/github/followers/k-f-?style=social)\
-![Instagram](https://img.shields.io/badge/outamyelement-fff?style=social&logo=instagram&link=https://instagram.com/outamyelement&link=https://instagram.com/outamyelement)
+<a href="https://github.com/k-f-?tab=followers">![GitHub followers](https://img.shields.io/github/followers/k-f-?style=social)</a>\
+<a href="https://instagram.com/outamyelement">![Instagram](https://img.shields.io/badge/outamyelement-fff?style=social&logo=instagram&link=https://instagram.com/outamyelement&link=https://instagram.com/outamyelement)</a>
+
+
 <!--
 **k-f-/k-f-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
