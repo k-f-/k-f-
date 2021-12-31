@@ -7,8 +7,11 @@
 #### ———
 ![GitHub stars](https://img.shields.io/github/stars/k-f-?style=social)
 <a href="https://github.com/k-f-?tab=followers">![GitHub followers](https://img.shields.io/github/followers/k-f-?style=social)</a>\
+
 <a href="https://www.linkedin.com/in/kfring">![LinkedIn](https://img.shields.io/badge/kfring-fff?style=social&logo=linkedin)</a>
+<a href="https://www.goodreads.com/user/show/2216827-kyle">![GoodReads](https://img.shields.io/badge/kfring-fff?style=social&logo=goodreads)</a>
 <a href="https://instagram.com/outamyelement">![Instagram](https://img.shields.io/badge/outamyelement-fff?style=social&logo=instagram)</a>
+
 
 
 <!--
