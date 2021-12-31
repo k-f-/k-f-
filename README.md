@@ -1,5 +1,4 @@
 ### Kyle Fring
-#### ———
 📍 Chattanooga, TN\
 💻 **Data**
 
