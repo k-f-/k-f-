@@ -1,7 +1,7 @@
 ### Kyle Fring
 🌐 <a href="http://fring.io">fring.io</a>\
 📍 Chattanooga, TN\
-💻 **Senior Data Engineer**
+💻 **Director | Data@Healthcare**
 
 
 #### ———
