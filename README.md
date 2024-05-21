@@ -1,10 +1,9 @@
-### Kyle Fring
+# Kyle Fring
+
 🌐 <a href="https://fring.io">fring.io</a>\
 📍 Chattanooga, TN\
 💻 **Director | Data@Healthcare**
 
-
-#### ———
 ![GitHub stars](https://img.shields.io/github/stars/k-f-?style=social)
 <a href="https://github.com/k-f-?tab=followers">![GitHub followers](https://img.shields.io/github/followers/k-f-?style=social)</a>\
 <a href="https://www.linkedin.com/in/kfring">![LinkedIn](https://img.shields.io/badge/kfring-fff?style=social&logo=linkedin)</a>
