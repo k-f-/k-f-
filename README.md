@@ -1,5 +1,5 @@
 ### Kyle Fring
-🌐 <a href="http://fring.io">fring.io</a>\
+🌐 <a href="https://fring.io">fring.io</a>\
 📍 Chattanooga, TN\
 💻 **Director | Data@Healthcare**
 
