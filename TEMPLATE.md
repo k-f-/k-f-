@@ -1,23 +1,15 @@
-Account age: {{ ACCOUNT_AGE }} years
+# Kyle Fring
 
-Pushed {{ COMMITS }} commits
+🌐 <a href="https://fring.io">fring.io</a>\
+📍 Chattanooga, TN\
+💻 **Director | Data@Healthcare**
 
-Opened {{ ISSUES }} issues
+Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
-Submitted {{ PULL_REQUESTS }} pull requests
+Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-Reviewed {{ CODE_REVIEWS }} pull requests
+Most used languages across my projects:
 
-Received {{ STARS }} stars
-
-Own {{ REPOSITORIES }} repositories
-
-Contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories
-
-Top 8 most used languages across your repositories:
-
-{{ LANGUAGE_TEMPLATE_START }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
-
-Top 4 most used languages across your repositories:
-
-{{ LANGUAGE_TEMPLATE_START:max=4 }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
+{{ LANGUAGE_TEMPLATE_START }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
