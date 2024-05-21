@@ -1,22 +1,20 @@
-Account age: 12 years
+# Kyle Fring
 
-Pushed 392 commits
+🌐 <a href="https://fring.io">fring.io</a>\
+📍 Chattanooga, TN\
+💻 **Director | Data@Healthcare**
 
-Opened 17 issues
+Joined Github **12** years ago.
 
-Submitted 1 pull requests
+Since then I pushed **393** commits, opened **17** issues, submitted **1** pull requests, received **9** stars across **9** personal projects and contributed to **0** public repositories.
 
-Reviewed 0 pull requests
+Most used languages across my projects:
 
-Received 9 stars
-
-Own 9 repositories
-
-Contributed to 0 public repositories
-
-Top 8 most used languages across your repositories:
-
- Shell  Emacs Lisp  Perl  JavaScript  Ruby  HTML  Vim Script  YASnippet 
-Top 4 most used languages across your repositories:
-
- Shell  Emacs Lisp  Perl  Other 
+![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B145.6%25)
+![Emacs Lisp](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c065db&message=Emacs%20Lisp%EF%B8%B138.2%25)
+![Perl](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%230298c3&message=Perl%EF%B8%B112.7%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B11.8%25)
+![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B10.6%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B10.4%25)
+![Vim Script](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23199f4b&message=Vim%20Script%EF%B8%B10.3%25)
+![YASnippet](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2332AB90&message=YASnippet%EF%B8%B10%25)
