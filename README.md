@@ -4,9 +4,9 @@
 📍 Chattanooga, TN\
 💻 **Director | Data@Healthcare**
 
-Joined Github **13** years ago.
+Joined Github **14** years ago.
 
-Since then I pushed **685** commits, opened **25** issues, submitted **3** pull requests, received **14** stars across **14** personal projects and contributed to **0** public repositories.
+Since then I pushed **685** commits, opened **27** issues, submitted **3** pull requests, received **14** stars across **14** personal projects and contributed to **0** public repositories.
 
 Most used languages across my projects:
 
